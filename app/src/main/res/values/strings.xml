@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Visualization50</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="start_simulation">Start Simulation</string>
+    <string name="description_for_gamer">Выберите число автобусов для маршрутов</string>
+    <string name="bus_110">MAX:20</string>
+</resources>
